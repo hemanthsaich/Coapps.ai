@@ -2,7 +2,7 @@
 ![image](https://github.com/hemanthsaich/Coapps.ai/assets/91429511/1158d28e-8e53-443c-9d3e-338bb7f80832)
 
 ## Customer Login:
-![Screenshot (95)](https://github.com/hemanthsaich/Coapps.ai/assets/91429511/bf473272-38b5-4060-8034-ce9839faa668)
+![image](https://github.com/hemanthsaich/Coapps.ai/assets/91429511/cb09e055-dfec-4996-a2fe-286e799322de)
 
 ## Customer Registration:
 ![image](https://github.com/hemanthsaich/Coapps.ai/assets/91429511/93b6a99b-a690-4bdd-a944-1c38daba52a1)
