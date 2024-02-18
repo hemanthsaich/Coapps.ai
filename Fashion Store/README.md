@@ -1,4 +1,4 @@
-## Login Page For Seller And Customer:
+## Register or Login Page For Seller And Customer:
 ![image](https://github.com/hemanthsaich/Coapps.ai/assets/91429511/1158d28e-8e53-443c-9d3e-338bb7f80832)
 
 ## Customer Login:
